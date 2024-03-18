@@ -13,6 +13,8 @@ public class Test {
 		Date date=new Date();
 		
 		System.out.println(date.getDate());
+		
+		System.out.println("Noted");
 	
 	}
 
